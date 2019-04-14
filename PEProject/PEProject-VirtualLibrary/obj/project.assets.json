@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drumi\\source\\repos\\PEProject-VirtualLibrary\\PEProject-VirtualLibrary.csproj",
+      "projectUniqueName": "D:\\TUProjects\\PEProject\\PEProject-VirtualLibrary\\PEProject-VirtualLibrary.csproj",
       "projectName": "PEProject-VirtualLibrary",
-      "projectPath": "C:\\Users\\drumi\\source\\repos\\PEProject-VirtualLibrary\\PEProject-VirtualLibrary.csproj",
+      "projectPath": "D:\\TUProjects\\PEProject\\PEProject-VirtualLibrary\\PEProject-VirtualLibrary.csproj",
       "packagesPath": "C:\\Users\\drumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drumi\\source\\repos\\PEProject-VirtualLibrary\\obj\\",
+      "outputPath": "D:\\TUProjects\\PEProject\\PEProject-VirtualLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
