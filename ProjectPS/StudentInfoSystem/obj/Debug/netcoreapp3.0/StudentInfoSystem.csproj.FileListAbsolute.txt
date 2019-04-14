@@ -76,3 +76,4 @@ D:\TUProjects\ProjectPS\StudentInfoSystem\obj\Debug\netcoreapp3.0\StudentInfoSys
 D:\TUProjects\ProjectPS\StudentInfoSystem\obj\Debug\netcoreapp3.0\StudentInfoSystem.csproj.CopyComplete
 D:\TUProjects\ProjectPS\StudentInfoSystem\obj\Debug\netcoreapp3.0\StudentInfoSystem.dll
 D:\TUProjects\ProjectPS\StudentInfoSystem\obj\Debug\netcoreapp3.0\StudentInfoSystem.pdb
+D:\TUProjects\ProjectPS\StudentInfoSystem\bin\Debug\netcoreapp3.0\StudentInfoSystem.dll.config

@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace StudentInfoSystem
+namespace WpfApp2
 {
     /// <summary>
     /// Interaction logic for App.xaml

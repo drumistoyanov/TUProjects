@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace StudentInfoSystem
+namespace WpfApp2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -12,9 +12,8 @@ namespace StudentInfoSystem
             InitializeComponent();
         }
 
-        private void ButtonExit_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
         }
     }
 }
