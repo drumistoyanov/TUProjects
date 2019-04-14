@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": "7e2d1b70e2ac756cca520497a8b16816e5da920f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UserLogin/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App.Ref": "3.0.0-preview4-27518-04",
+          "Microsoft.WindowsDesktop.App.Ref": "3.0.0-preview4-27518-04",
+          "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": "3.0.0-preview4-27518-04"
+        },
+        "runtime": {
+          "UserLogin.dll": {}
+        }
+      },
+      "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {},
+      "Microsoft.WindowsDesktop.App.Ref/3.0.0-preview4-27518-04": {},
+      "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {}
+    }
+  },
+  "libraries": {
+    "UserLogin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9gkZbow8GxripkcRCQotISdxJdl51sTSjC+1U+kFVfLngyfey/uHJgtis1E984G2rmjqDIrClG03d13KIf7u0g==",
+      "path": "microsoft.netcore.app.ref/3.0.0-preview4-27518-04",
+      "hashPath": "microsoft.netcore.app.ref.3.0.0-preview4-27518-04.nupkg.sha512"
+    },
+    "Microsoft.WindowsDesktop.App.Ref/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRr5Y8L8EB0eN0jwjhILBo7vwU9RyqpdTOFQoGLr+eR0WTbFkIqS0I080spBsJgj1lsEuIIfIc+y/8Zl6S8UCQ==",
+      "path": "microsoft.windowsdesktop.app.ref/3.0.0-preview4-27518-04",
+      "hashPath": "microsoft.windowsdesktop.app.ref.3.0.0-preview4-27518-04.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WC3g4CMfRxuw1OxXdpxuKWT4m5PIKpXjNuXob1C5UwdXKWzYRIHRv0dCEQQCO/+M6tzlaQ2f7wtoVFu2N8iKJA==",
+      "path": "runtime.win-x64.microsoft.netcore.dotnetapphost/3.0.0-preview4-27518-04",
+      "hashPath": "runtime.win-x64.microsoft.netcore.dotnetapphost.3.0.0-preview4-27518-04.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\StudentRepository.deps.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\StudentRepository.runtimeconfig.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\StudentRepository.runtimeconfig.dev.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\StudentRepository.dll
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\StudentRepository.pdb
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.csproj.CoreCompileInputs.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.AssemblyInfoInputs.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.AssemblyInfo.cs
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.dll
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.pdb
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.csprojAssemblyReference.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\log.txt
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\UserLogin.dll
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\bin\Debug\netcoreapp2.2\UserLogin.pdb
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\StudentRepository\obj\Debug\netcoreapp2.2\StudentRepository.csproj.CopyComplete

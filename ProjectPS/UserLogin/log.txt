@@ -1,0 +1,56 @@
+﻿3/19/2019 3:20:09 AM - Drumi - ADMIN - Successful login
+3/19/2019 3:21:29 AM - Drumi - ADMIN - Successful login
+3/19/2019 3:21:38 AM - Drumi - ADMIN - Change role for Pavlin
+3/19/2019 4:51:47 PM - Drumi - ADMIN - Successful login
+3/19/2019 4:52:31 PM - Drumi - ADMIN - Change role for [Petur, 2]
+3/19/2019 4:56:09 PM - Drumi - ADMIN - Successful login
+3/19/2019 4:56:55 PM - Drumi - ADMIN - Successful login
+3/19/2019 4:58:19 PM - Drumi - ADMIN - Successful login
+3/19/2019 4:59:07 PM - Drumi - ADMIN - Successful login
+3/19/2019 4:59:15 PM - Drumi - ADMIN - Change role for [Pavlin, 1]
+3/19/2019 4:59:42 PM - Drumi - ADMIN - Change activity for [Petur, 2]
+3/19/2019 5:00:37 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:01:14 PM - Drumi - ADMIN - Change activity for [Pavlin, 1]
+3/19/2019 5:03:38 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:07:19 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:15:13 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:15:19 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:23:16 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:23:23 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:23:37 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:25:00 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:25:08 PM - Drumi - ADMIN - Successful login
+3/19/2019 5:26:51 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:27:03 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:27:17 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:27:25 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:28:35 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:28:41 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:29:15 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:29:54 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:30:45 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:31:04 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:31:56 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:32:02 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:32:51 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:32:51 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:33:46 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:33:46 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:34:26 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:34:26 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:34:36 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:34:36 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:34:40 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:39:25 PM -  - ANONYMOUS - Username should be longer than 5 symbols.
+3/19/2019 5:39:25 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:39:48 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:39:48 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:39:48 PM -  - ANONYMOUS - Username should be longer than 5 symbols.
+3/19/2019 5:39:48 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:40:29 PM -  - ANONYMOUS - Username is empty.
+3/19/2019 5:40:29 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:40:29 PM -  - ANONYMOUS - Username should be longer than 5 symbols.
+3/19/2019 5:40:29 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:41:12 PM -  - ANONYMOUS - Password is empty.
+3/19/2019 5:41:12 PM -  - ANONYMOUS - Password should be longer than 5 symbols.
+3/19/2019 5:44:41 PM -  - ANONYMOUS - No user with this login details: drumimim - 312321321

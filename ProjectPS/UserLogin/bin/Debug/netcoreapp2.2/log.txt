@@ -1,0 +1,88 @@
+﻿3/18/2019 11:44:50 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/18/2019 11:45:05 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/18/2019 11:49:20 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/18/2019 11:50:20 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/18/2019 11:51:28 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/18/2019 11:51:52 PM;LoginValidation.currentUserUsername;ADMIN;
+Change role for Pavlin
+3/18/2019 11:52:23 PM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:03:43 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:05:06 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:08:14 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:20:46 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:21:38 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:22:31 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:23:30 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:24:09 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:24:33 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:25:27 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:25:37 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:25:52 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:26:21 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:27:28 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:27:38 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:29:26 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:29:47 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:30:28 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:31:54 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:32:33 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:32:54 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:43:09 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:44:17 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:45:49 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:53:47 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:54:16 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:55:53 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:56:26 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 12:56:59 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 1:02:42 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 1:03:28 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 1:03:46 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 2:24:31 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 2:25:04 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 2:25:37 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 2:26:08 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login
+3/19/2019 2:26:37 AM;LoginValidation.currentUserUsername;ADMIN;
+Successful login

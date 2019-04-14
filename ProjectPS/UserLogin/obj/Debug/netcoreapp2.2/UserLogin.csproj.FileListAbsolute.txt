@@ -1,0 +1,12 @@
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\UserLogin.deps.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\UserLogin.runtimeconfig.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\UserLogin.runtimeconfig.dev.json
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\UserLogin.dll
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\UserLogin.pdb
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.csprojAssemblyReference.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.AssemblyInfoInputs.cache
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.AssemblyInfo.cs
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.dll
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\obj\Debug\netcoreapp2.2\UserLogin.pdb
+C:\Users\drumi\OneDrive\Desktop\ProjectPS\UserLogin\bin\Debug\netcoreapp2.2\log.txt
