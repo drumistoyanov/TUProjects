@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": "bab7491eb170997d13f3714a42865c3aabd63a4e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SearchSystem_ZartAlgorithm/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App.Ref": "3.0.0-preview4-27518-04",
+          "Microsoft.NETCore.Platforms": "3.0.0-preview4.19163.10",
+          "Microsoft.WindowsDesktop.App.Ref": "3.0.0-preview4-27518-04",
+          "Newtonsoft.Json": "12.0.1",
+          "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": "3.0.0-preview4-27518-04"
+        },
+        "runtime": {
+          "SearchSystem_ZartAlgorithm.dll": {}
+        }
+      },
+      "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {},
+      "Microsoft.NETCore.Platforms/3.0.0-preview4.19163.10": {},
+      "Microsoft.WindowsDesktop.App.Ref/3.0.0-preview4-27518-04": {},
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {}
+    }
+  },
+  "libraries": {
+    "SearchSystem_ZartAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9gkZbow8GxripkcRCQotISdxJdl51sTSjC+1U+kFVfLngyfey/uHJgtis1E984G2rmjqDIrClG03d13KIf7u0g==",
+      "path": "microsoft.netcore.app.ref/3.0.0-preview4-27518-04",
+      "hashPath": "microsoft.netcore.app.ref.3.0.0-preview4-27518-04.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.0.0-preview4.19163.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vCYQaFZb8TTQHD8zswn/fbnNh4BdKDoFagtzAuJYrA8DuPP9XlN20DK/NJP7Ulq5LkDkw/Y7MPJBYyp9vttk2g==",
+      "path": "microsoft.netcore.platforms/3.0.0-preview4.19163.10",
+      "hashPath": "microsoft.netcore.platforms.3.0.0-preview4.19163.10.nupkg.sha512"
+    },
+    "Microsoft.WindowsDesktop.App.Ref/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRr5Y8L8EB0eN0jwjhILBo7vwU9RyqpdTOFQoGLr+eR0WTbFkIqS0I080spBsJgj1lsEuIIfIc+y/8Zl6S8UCQ==",
+      "path": "microsoft.windowsdesktop.app.ref/3.0.0-preview4-27518-04",
+      "hashPath": "microsoft.windowsdesktop.app.ref.3.0.0-preview4-27518-04.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WC3g4CMfRxuw1OxXdpxuKWT4m5PIKpXjNuXob1C5UwdXKWzYRIHRv0dCEQQCO/+M6tzlaQ2f7wtoVFu2N8iKJA==",
+      "path": "runtime.win-x64.microsoft.netcore.dotnetapphost/3.0.0-preview4-27518-04",
+      "hashPath": "runtime.win-x64.microsoft.netcore.dotnetapphost.3.0.0-preview4-27518-04.nupkg.sha512"
+    }
+  }
+}

@@ -11,7 +11,7 @@
             // var items = new List<Item>();
             // var test = new Test();
             //test.AddTestObjects(items);
-            var file = FileClass.FromJson();
+            var file = FileClass.Deserialize();
             var itemFactory = new ItemFactory();
             var commandMenu = new CommandMenu();
             commandMenu.Menu(file, itemFactory);

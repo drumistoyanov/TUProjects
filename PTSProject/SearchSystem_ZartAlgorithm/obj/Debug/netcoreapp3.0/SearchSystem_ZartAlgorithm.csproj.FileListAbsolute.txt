@@ -1,0 +1,14 @@
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.exe
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.csprojAssemblyReference.cache
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.csproj.CoreCompileInputs.cache
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.AssemblyInfoInputs.cache
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.AssemblyInfo.cs
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.deps.json
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.runtimeconfig.json
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.runtimeconfig.dev.json
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.dll
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.pdb
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.csproj.CopyComplete
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.dll
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.pdb

@@ -81,7 +81,7 @@
             }
         }
 
-        public static List<Item> FromJson()
+        public static List<Item> Deserialize()
         {
             JsonConverter[] converters = { new ItemConverter() };
             var json = File.ReadAllText(TextFilePath);
