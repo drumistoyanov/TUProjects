@@ -9,3 +9,14 @@ C:\Users\drumi\source\repos\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEP
 C:\Users\drumi\source\repos\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.dll
 C:\Users\drumi\source\repos\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.pdb
 C:\Users\drumi\source\repos\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.csprojAssemblyReference.cache
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\bin\Debug\netcoreapp2.2\PEProject-VirtualLibrary.deps.json
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\bin\Debug\netcoreapp2.2\PEProject-VirtualLibrary.runtimeconfig.json
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\bin\Debug\netcoreapp2.2\PEProject-VirtualLibrary.runtimeconfig.dev.json
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\bin\Debug\netcoreapp2.2\PEProject-VirtualLibrary.dll
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\bin\Debug\netcoreapp2.2\PEProject-VirtualLibrary.pdb
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.csprojAssemblyReference.cache
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.csproj.CoreCompileInputs.cache
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.AssemblyInfoInputs.cache
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.AssemblyInfo.cs
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.dll
+D:\TUProjects\PEProject\PEProject-VirtualLibrary\obj\Debug\netcoreapp2.2\PEProject-VirtualLibrary.pdb
