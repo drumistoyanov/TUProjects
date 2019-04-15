@@ -1,6 +1,7 @@
 ﻿namespace PEProject_VirtualLibrary.Entities
 {
     using System;
+    using System.ComponentModel.DataAnnotations;
     using System.Globalization;
 
     using PEProject_VirtualLibrary.Entities.Contracts;
@@ -43,7 +44,6 @@
             this.Condition = (Enums.Condition)Enum.Parse(typeof(Enums.Condition), condition);
             this.Type = this.GetType().Name.ToString();
         }
-
         public string Type { get; set; }
         public string Author { get; set; }
         public string Title { get; set; }

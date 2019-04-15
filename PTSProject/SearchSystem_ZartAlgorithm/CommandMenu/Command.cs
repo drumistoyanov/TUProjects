@@ -13,9 +13,9 @@ namespace SearchSystem_ZartAlgorithm.CommandMenu
             Console.WriteLine("0. Exit");
             Console.WriteLine("1. Register");
             Console.WriteLine("2. Login");
-            Console.WriteLine("3. Show reserved");
-            Console.WriteLine("4. ");
-            Console.WriteLine("5. ");
+            Console.WriteLine("3. Search");
+            Console.WriteLine("4. Search");
+            Console.WriteLine("5. Search");
             int command = 3123213;
             string username;
             string password;
@@ -78,12 +78,36 @@ namespace SearchSystem_ZartAlgorithm.CommandMenu
                             break;
 
                         case 3:
+                            if (user!=null)
+                            {
+
+                            }
+                            else
+                            {
+                                throw new Exception("You are not logged in!!!");
+                            }
                             break;
 
                         case 4:
+                            if (user != null)
+                            {
+
+                            }
+                            else
+                            {
+                                throw new Exception("You are not logged in!!!");
+                            }
                             break;
 
                         case 5:
+                            if (user != null)
+                            {
+
+                            }
+                            else
+                            {
+                                throw new Exception("You are not logged in!!!");
+                            }
                             break;
 
                         default:

@@ -1,13 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v3.0",
-    "signature": "bab7491eb170997d13f3714a42865c3aabd63a4e"
+    "signature": "20186038af4dc0cef73608c473ccb57b21d9b7b1"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.0": {
       "SearchSystem_ZartAlgorithm/1.0.0": {
         "dependencies": {
+          "CsvHelper": "12.1.2",
           "Microsoft.NETCore.App.Ref": "3.0.0-preview4-27518-04",
           "Microsoft.NETCore.Platforms": "3.0.0-preview4.19163.10",
           "Microsoft.WindowsDesktop.App.Ref": "3.0.0-preview4-27518-04",
@@ -18,6 +19,19 @@
           "SearchSystem_ZartAlgorithm.dll": {}
         }
       },
+      "CsvHelper/12.1.2": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.0",
+          "System.Reflection.TypeExtensions": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CsvHelper.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
       "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {},
       "Microsoft.NETCore.Platforms/3.0.0-preview4.19163.10": {},
       "Microsoft.WindowsDesktop.App.Ref/3.0.0-preview4-27518-04": {},
@@ -29,7 +43,8 @@
           }
         }
       },
-      "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {}
+      "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/3.0.0-preview4-27518-04": {},
+      "System.Reflection.TypeExtensions/4.4.0": {}
     }
   },
   "libraries": {
@@ -37,6 +52,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CsvHelper/12.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SpMsKw74xuAMsYZ+tSQsHF9UYlZm6E+LBSwDPukGCy1dYLVJwM6ZR7gFhKWDMh7OR/1ba8t4UV/RraMJKx+mog==",
+      "path": "csvhelper/12.1.2",
+      "hashPath": "csvhelper.12.1.2.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
     },
     "Microsoft.NETCore.App.Ref/3.0.0-preview4-27518-04": {
       "type": "package",
@@ -72,6 +101,13 @@
       "sha512": "sha512-WC3g4CMfRxuw1OxXdpxuKWT4m5PIKpXjNuXob1C5UwdXKWzYRIHRv0dCEQQCO/+M6tzlaQ2f7wtoVFu2N8iKJA==",
       "path": "runtime.win-x64.microsoft.netcore.dotnetapphost/3.0.0-preview4-27518-04",
       "hashPath": "runtime.win-x64.microsoft.netcore.dotnetapphost.3.0.0-preview4-27518-04.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
     }
   }
 }

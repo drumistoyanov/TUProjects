@@ -1,8 +1,6 @@
 ﻿namespace PEProject_VirtualLibrary.Entities
 {
-    using PEProject_VirtualLibrary.Entities.Contracts;
-
-    public class VideoDiskette : Item, IPlayable
+    public class VideoDiskette : Item
     {
         public VideoDiskette()
         {
@@ -17,7 +15,5 @@
             : base(author, title, style, date, condition)
         {
         }
-
-        public double Length { get; set; } = 100;
     }
 }

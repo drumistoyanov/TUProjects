@@ -12,3 +12,4 @@ D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\Newt
 D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.csproj.CopyComplete
 D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.dll
 D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\obj\Debug\netcoreapp3.0\SearchSystem_ZartAlgorithm.pdb
+D:\TUProjects\PTSProject\SearchSystem_ZartAlgorithm\bin\Debug\netcoreapp3.0\CsvHelper.dll

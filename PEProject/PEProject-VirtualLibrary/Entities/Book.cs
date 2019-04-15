@@ -1,8 +1,6 @@
 ﻿namespace PEProject_VirtualLibrary.Entities
 {
-    using PEProject_VirtualLibrary.Entities.Contracts;
-
-    public class Book : Item, IReadable
+    public class Book : Item
     {
         public Book()
         {
@@ -17,7 +15,5 @@
             : base(author, title, style, date, condition)
         {
         }
-
-        public int Pages { get; set; } = 100;
     }
 }

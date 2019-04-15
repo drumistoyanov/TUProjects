@@ -1,8 +1,6 @@
 ﻿namespace PEProject_VirtualLibrary.Entities
 {
-    using PEProject_VirtualLibrary.Entities.Contracts;
-
-    public class AudioCD : Item, IPlayable
+    public class AudioCD : Item
     {
         public AudioCD()
         {
@@ -17,7 +15,5 @@
             : base(author, title, style, date, condition)
         {
         }
-
-        public double Length { get; set; } = 100;
     }
 }
